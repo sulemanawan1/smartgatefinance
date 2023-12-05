@@ -1,0 +1,11 @@
+const String userIdSPKey = 'userId';
+const String subAdminIdSPKey = 'subadminid';
+const String superAdminIdSPKey = 'superadminid';
+const String societyIdSPKey = 'societyid';
+const String firstNameSPKey = 'firstName';
+const String lastNameSPKey = 'lastName';
+const String roleNameSPKey = 'rolename';
+const String roleIdSPKey = 'roleId';
+const String cnicSPKey = 'cnic';
+const String passwordSPKey = 'password';
+const String bearerTokenSPKey = 'bearerToken';
